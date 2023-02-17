@@ -1,0 +1,10 @@
+s:1193:"<p>Le module d'activités H5P vous permet de créer du contenu interactif tel que des vidéos interactives, des banques de questions, des questions « glisser-déposer », des questions à choix multiples, des présentations et bien plus encore.</p>
+
+<p>En plus d'être un outil de création pour du contenu riche, H5P vous permet d'importer et d'exporter des fichiers H5P afin de les réutiliser et de les partager.</p>
+
+<p>Les interactions et les scores des utilisateurs sont suivis en utilisant xAPI et sont accessibles dans le carnet de note de Moodle. Veuillez noter qu'il est actuellement possible à des gens ayant des talents de programmation de tricher avec les interactions H5P et d'obtenir les scores maximum sans connaître les réponses correctes. H5P ne doit pas être utilisé pour des examens.</p>
+
+<p>Vous ajoutez un contenu interactif H5P en créant votre propre contenu grâce aux outils de création intégrés ou en important des fichiers H5P que vous aurez trouvés sur d'autres sites H5P.</p>
+
+<div class="helpdoclink"><a href="https://h5p.org/moodle-more-help" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>Plus d'aide</a></div>
+";

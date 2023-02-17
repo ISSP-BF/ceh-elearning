@@ -1,0 +1,6 @@
+s:522:"<p>The MS Teams module enables a teacher to provide an invitation link to an MS Teams meeting as a course resource.</p>
+
+<p>At least the user creating the meeting requires a Microsoft Account. According to the configuration of the Microsoft O365-Tenant it is possible to invite users, that do not have an own Microsoft Account.</p>
+
+<div class="helpdoclink"><a href="https://docs.moodle.org/311/fr/mod/msteams/view" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>Plus d'aide</a></div>
+";
