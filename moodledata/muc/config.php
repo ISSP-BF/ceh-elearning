@@ -715,6 +715,49 @@
       'selectedsharingoption' => 2,
       'userinputsharingkey' => '',
     ),
+    'mod_bigbluebuttonbn/serverinfo' => 
+    array (
+      'mode' => 1,
+      'invalidationevents' => 
+      array (
+        0 => 'mod_bigbluebuttonbn/serversettingschanged',
+      ),
+      'component' => 'mod_bigbluebuttonbn',
+      'area' => 'serverinfo',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'mod_bigbluebuttonbn/validatedurls' => 
+    array (
+      'mode' => 1,
+      'simpledata' => true,
+      'component' => 'mod_bigbluebuttonbn',
+      'area' => 'validatedurls',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'mod_bigbluebuttonbn/recordings' => 
+    array (
+      'mode' => 1,
+      'invalidationevents' => 
+      array (
+        0 => 'mod_bigbluebuttonbn/recordingchanged',
+        1 => 'mod_bigbluebuttonbn/serversettingschanged',
+      ),
+      'ttl' => 300,
+      'component' => 'mod_bigbluebuttonbn',
+      'area' => 'recordings',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'mod_bigbluebuttonbn/currentfetch' => 
+    array (
+      'mode' => 4,
+      'component' => 'mod_bigbluebuttonbn',
+      'area' => 'currentfetch',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
     'mod_forum/forum_is_tracked' => 
     array (
       'mode' => 4,
@@ -763,6 +806,22 @@
       'datasource' => '\\mod_quiz\\cache\\overrides',
       'component' => 'mod_quiz',
       'area' => 'overrides',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'filter_wiris/images' => 
+    array (
+      'mode' => 1,
+      'component' => 'filter_wiris',
+      'area' => 'images',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'filter_wiris/formulas' => 
+    array (
+      'mode' => 1,
+      'component' => 'filter_wiris',
+      'area' => 'formulas',
       'selectedsharingoption' => 2,
       'userinputsharingkey' => '',
     ),

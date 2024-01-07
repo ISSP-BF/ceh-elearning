@@ -1,1 +1,6 @@
-b:1;
+s:498:"<p>Le contexte d'une annotation détermine qui peut la consulter. Les utilisateurs doivent être conscients que toutes les annotations, y compris celles contenant des données personnelles, peuvent être communiquées selon les lois de leur juridiction.</p>
+
+<ul><li>Personnel : l'annotation ne sera visible que par vous-même</li>
+<li>Course : l'annotation sera visible pour les enseignants de ce cours</li>
+<li>Site : l'annotation sera visible pour les enseignants de tous les cours</li>
+</ul>";

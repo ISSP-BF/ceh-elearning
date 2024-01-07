@@ -1,1 +1,7 @@
-b:1;
+s:693:"<p>Ce réglage a trois options :</p>
+
+<ul><li>Pas de groupe ;</li>
+<li>Groupes séparés - chaque membre du groupe ne peut voir que son propre groupe, les autres groupes étant invisibles ;</li>
+<li>Groupes visibles - chaque membre du groupe travaille uniquement dans son propre groupe, mais peut aussi voir les autres groupes.</li>
+</ul><p>Le mode de groupe défini au niveau du cours est le type par défaut pour toutes les activités du cours. Chaque activité qui supporte les groupes peut définir son propre mode de groupe. Toutefois, si dans le cours le paramètre « Imposer le mode des groupes » a été choisi, le mode des groupes défini dans les activités sera ignoré.</p>
+";

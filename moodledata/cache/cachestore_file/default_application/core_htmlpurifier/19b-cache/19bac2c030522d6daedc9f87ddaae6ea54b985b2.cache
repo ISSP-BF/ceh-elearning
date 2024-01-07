@@ -1,1 +1,8 @@
-b:1;
+s:890:"<p>Il y a 5 types de forums :</p>
+
+<ul><li>Une seule discussion simple : un seul sujet de discussion sur lequel chacun peut s'exprimer (ne peut pas être utilisé avec des groupes séparés).</li>
+<li>Chaque personne commence une seule discussion : chaque étudiant ne peut entamer qu'une seule discussion, à laquelle chacun peut répondre.</li>
+<li>Forum questions/réponses : les étudiants doivent poster un message avant de pouvoir consulter ceux des autres participants et y répondre.</li>
+<li>Forum standard affiché comme un blog : un forum ouvert, où chacun peut entamer une nouvelle discussion à tout instant. Les sujets de discussion sont affichés sur une page, avec un lien « Discuter sur ce sujet » pour y répondre.</li>
+<li>Forum standard pour utilisation générale : un forum ouvert, où chacun peut entamer une nouvelle discussion à tout instant.</li>
+</ul>";

@@ -1,4 +1,4 @@
-s:2333:"<p>Le module d'activité forum permet aux participants de tenir des discussions asynchrones, c'est-à-dire ne nécessitant pas leur participation au même moment.</p>
+s:2330:"<p>Le module d'activité forum permet aux participants de tenir des discussions asynchrones, c'est-à-dire ne nécessitant pas leur participation au même moment.</p>
 
 <p>Divers types de forums peuvent être choisis, comme un forum standard, où chacun peut lancer de nouvelles discussions à n'importe quel moment, ou un forum où chaque participant doit lancer exactement une discussion, ou encore un forum de questions et réponses où ils doivent écrire un message avant de voir ceux des autres participants. L'enseignant peut autoriser que des fichiers soit joints aux messages des forums.</p>
 
@@ -8,8 +8,7 @@ s:2333:"<p>Le module d'activité forum permet aux participants de tenir des disc
 
 <p>Les forums ont de nombreuses utilisations, comme :</p>
 
-<ul>
-<li>un espace de présentation pour que les participants à un cours apprennent à se connaître</li>
+<ul><li>un espace de présentation pour que les participants à un cours apprennent à se connaître</li>
 <li>une tribune pour diffuser les informations du cours (à l'aide d'un forum d'annonces avec abonnement imposé)</li>
 <li>un centre d'aide où les enseignants et les participants peuvent donner des conseils</li>
 <li>une façon informelle de partager des documents entre participants (et éventuellement d'évaluer par les pairs)</li>
@@ -17,7 +16,5 @@ s:2333:"<p>Le module d'activité forum permet aux participants de tenir des disc
 <li>un endroit pour des discussions réservées aux enseignants (avec un forum caché)</li>
 <li>pour des activités complémentaires, par exemple des problèmes ouverts où les participants peuvent suggérer des solutions</li>
 <li>un lieu social pour des discussions hors-sujet</li>
-</ul>
-
-<div class="helpdoclink"><a href="https://docs.moodle.org/311/fr/mod/forum/view" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>Plus d'aide</a></div>
+</ul><div class="helpdoclink"><a href="https://docs.moodle.org/311/fr/mod/forum/view" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>Plus d'aide</a></div>
 ";

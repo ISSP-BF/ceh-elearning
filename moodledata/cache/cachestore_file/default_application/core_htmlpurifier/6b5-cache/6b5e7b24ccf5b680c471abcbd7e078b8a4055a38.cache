@@ -1,1 +1,7 @@
-b:1;
+s:577:"<p>Le format de cours détermine comment est affichée la page de cours.</p>
+
+<ul><li>Format activité unique - une activité ou une ressource unique (comme par exemple un test ou un paquetage SCORM) est affichée sur la page de cours.</li>
+<li>Format informel – un forum public est affiché sur la page de cours.</li>
+<li>Format thématique – la page de cours est organisée en sections thématiques.</li>
+<li>Format hebdomadaire – la page de cours est organisée en sections hebdomadaires, la première d'entre elle commençant à la date de début du cours.</li>
+</ul>";

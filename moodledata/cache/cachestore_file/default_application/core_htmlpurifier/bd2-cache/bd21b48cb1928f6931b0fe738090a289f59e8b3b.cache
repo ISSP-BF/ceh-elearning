@@ -1,0 +1,7 @@
+s:487:"<p>Les permissions sont les réglages que vous accordez pour des capacités spécifiques. Il y a quatre possibilités pour les permissions :</p>
+
+<ul><li>Non défini</li>
+<li>Autoriser : la permission est accordée pour cette capacité</li>
+<li>Empêcher : la permission n'est pas accordée pour cette capacité</li>
+<li>Interdire : la permission est totalement refusée pour cette capacité et ne peut pas être accordée dans un contexte inférieur (ou plus spécifique)</li>
+</ul>";

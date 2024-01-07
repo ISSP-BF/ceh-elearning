@@ -1,1 +1,8 @@
-b:1;
+s:477:"<p>Lors de l'utilisation de l'évaluation par points, les méthodes suivantes sont disponibles pour le calcul de la note finale :</p>
+
+<ul><li>Note la plus élevée de toutes les tentatives</li>
+<li>Note moyenne de toutes les tentatives</li>
+<li>Première tentative (les autres tentatives sont ignorées)</li>
+<li>Dernière tentative (les autres tentatives sont ignorées)</li>
+<li>Ne pas utiliser les tentatives pour l'évaluation (désactiver le calcul des notes)</li>
+</ul>";

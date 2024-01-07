@@ -1,1 +1,7 @@
-b:1;
+s:587:"<p>Lorsqu'un participant est abonné à un forum, il reçoit par courriel une copie de tous les messages postés sur ce forum. Il existe 4 modes pour cet abonnement :</p>
+
+<ul><li>Abonnement facultatif : les participants peuvent décider de s'abonner ou non.</li>
+<li>Abonnement imposé : tous les participants sont abonnés et ne peuvent pas se désabonner.</li>
+<li>Abonnement automatique : tous les participants sont initialement abonnés, mais peuvent choisir de se désabonner quand ils le veulent.</li>
+<li>Abonnement désactivé : l'abonnement n'est pas autorisé.</li>
+</ul>";

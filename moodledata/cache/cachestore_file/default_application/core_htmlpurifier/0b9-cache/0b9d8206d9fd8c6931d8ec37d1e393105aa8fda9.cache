@@ -1,1 +1,10 @@
-b:1;
+s:1020:"<p>Ce réglage, ainsi que le type de fichier et la capacité du navigateur à intégrer des objets, détermine la façon dont le fichier est affiché. Les options sont :</p>
+
+<ul><li>Automatique : la meilleure option d'affichage pour le type de fichier concerné est automatiquement sélectionnée</li>
+<li>Intégrer : le fichier est affiché dans la page au-dessous de la barre de navigation, avec la description du fichier et tous les blocs</li>
+<li>Forcer le téléchargement : l'utilisateur est invité à télécharger le fichier</li>
+<li>Ouvrir : le fichier est affiché tout seul dans la fenêtre du navigateur</li>
+<li>Fenêtre surgissante : le fichier est affiché dans une nouvelle fenêtre de navigateur sans menus ni barre d'adresse</li>
+<li>Dans un cadre : le fichier est affiché dans un cadre en dessous de la barre de navigation et de la description du fichier</li>
+<li>Nouvelle fenêtre : le fichier est affiché dans une nouvelle fenêtre du navigateur, avec menus et barre d'adresse</li>
+</ul>";

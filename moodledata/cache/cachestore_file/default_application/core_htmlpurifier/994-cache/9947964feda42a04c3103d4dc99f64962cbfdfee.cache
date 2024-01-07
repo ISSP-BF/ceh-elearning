@@ -1,1 +1,9 @@
-b:1;
+s:920:"<p>Ce réglage, ainsi que le type de fichier de l'URL et la capacité du navigateur à intégrer des objets (<em>embedding</em>), détermine la façon dont l'URL est affichée. Les options peuvent être :</p>
+
+<ul><li>Automatique : la meilleure option d'affichage pour l'URL concernée est automatiquement sélectionnée</li>
+<li>Intégrer : l'URL est affichée dans la page au-dessous de la barre de navigation, avec la description de l'URL et tous les blocs</li>
+<li>Ouvrir : l'URL est affichée toute seule dans la fenêtre du navigateur</li>
+<li>Fenêtre surgissante : l'URL est affichée dans une nouvelle fenêtre de navigateur sans menu ni barre d'adresse</li>
+<li>Dans un cadre : l'URL est affichée dans un cadre en dessous de la barre de navigation et de la description de l'URL</li>
+<li>Nouvelle fenêtre : l'URL est affichée dans une nouvelle fenêtre du navigateur, avec menus et barre d'adresse</li>
+</ul>";

@@ -1,4 +1,4 @@
-s:1367:"<p>Une base de données permet aux participants de créer, afficher et rechercher une collection de fiches.</p>
+s:1364:"<p>Une base de données permet aux participants de créer, afficher et rechercher une collection de fiches.</p>
 
 <p>La structure des fiches est définie à l'aide de différents types de champs, par exemple un texte court, une liste déroulante, une zone de texte, une URL, une image ou un fichier.</p>
 
@@ -8,10 +8,7 @@ s:1367:"<p>Une base de données permet aux participants de créer, afficher et r
 
 <p>Une activité de base de données peut être utilisée pour :</p>
 
-<ul>
-<li>construire de façon collaborative une collection de liens web, livres, recensions de livres ou d'articles, références de revues, etc.</li>
+<ul><li>construire de façon collaborative une collection de liens web, livres, recensions de livres ou d'articles, références de revues, etc.</li>
 <li>afficher des photos, posters, sites web, poèmes, etc. créés par les étudiants, en vue d'une présentation ou d'une évaluation par les pairs.</li>
-</ul>
-
-<div class="helpdoclink"><a href="https://docs.moodle.org/311/fr/mod/data/view" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>Plus d'aide</a></div>
+</ul><div class="helpdoclink"><a href="https://docs.moodle.org/311/fr/mod/data/view" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>Plus d'aide</a></div>
 ";

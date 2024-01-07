@@ -1,15 +1,12 @@
-s:1195:"<p>Le module d'activité feedback permet à l'enseignant de créer un questionnaire d'enquête personnalisé pour collecter des informations au moyen de divers types de questions, notamment à choix multiple, oui/non ou à réponses courtes.</p>
+s:1192:"<p>Le module d'activité feedback permet à l'enseignant de créer un questionnaire d'enquête personnalisé pour collecter des informations au moyen de divers types de questions, notamment à choix multiple, oui/non ou à réponses courtes.</p>
 
 <p>Si désiré, les réponses peuvent être anonymes, et les résultats peuvent affichés à tous les participants ou aux enseignants seulement. Une activité feedback affichée sur la page d'accueil peut également être remplie par des utilisateurs non connectés.</p>
 
 <p>Les activités feedback peuvent être utilisées pour :</p>
 
-<ul>
-<li>l'évaluation de cours, dans le but d'améliorer les contenus pour des participants ultérieurs</li>
+<ul><li>l'évaluation de cours, dans le but d'améliorer les contenus pour des participants ultérieurs</li>
 <li>permettre aux participants de s'inscrire à des modules de cours, des manifestations, etc.</li>
 <li>des enquêtes anonymes sur les choix de cours, les règlements d'écoles, etc.</li>
 <li>des enquêtes anti-harcèlement dans lesquelles les participants peuvent signaler anonymement des incidents</li>
-</ul>
-
-<div class="helpdoclink"><a href="https://docs.moodle.org/311/fr/mod/feedback/view" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>Plus d'aide</a></div>
+</ul><div class="helpdoclink"><a href="https://docs.moodle.org/311/fr/mod/feedback/view" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>Plus d'aide</a></div>
 ";

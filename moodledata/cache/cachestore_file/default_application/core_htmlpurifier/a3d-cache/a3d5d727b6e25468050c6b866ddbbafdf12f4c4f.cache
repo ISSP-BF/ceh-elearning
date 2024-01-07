@@ -1,12 +1,9 @@
-s:742:"<p>Le module livre permet à l'enseignant de créer une ressource composée de plusieurs pages, comme un livre, avec des chapitres et des sous-chapitres. Les livres peuvent contenir du texte ainsi que des fichiers médias et sont utiles pour afficher des contenus longs à couper en sections.</p>
+s:739:"<p>Le module livre permet à l'enseignant de créer une ressource composée de plusieurs pages, comme un livre, avec des chapitres et des sous-chapitres. Les livres peuvent contenir du texte ainsi que des fichiers médias et sont utiles pour afficher des contenus longs à couper en sections.</p>
 
 <p>Un livre peut être utilisé par exemple pour :</p>
 
-<ul>
-<li>afficher du matériel à lire pour des modules à étudier individuellement</li>
+<ul><li>afficher du matériel à lire pour des modules à étudier individuellement</li>
 <li>mettre à disposition un mode d'emploi</li>
 <li>constituer un portfolio de travaux d'étudiants</li>
-</ul>
-
-<div class="helpdoclink"><a href="https://docs.moodle.org/311/fr/mod/book/view" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>Plus d'aide</a></div>
+</ul><div class="helpdoclink"><a href="https://docs.moodle.org/311/fr/mod/book/view" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>Plus d'aide</a></div>
 ";

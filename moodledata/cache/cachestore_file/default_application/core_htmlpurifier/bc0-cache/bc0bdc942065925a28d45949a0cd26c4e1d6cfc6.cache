@@ -1,0 +1,7 @@
+s:599:"<p>Il est possible d'importer manuellement des comptes utilisateurs (et optionnellement inscrits à des cours) à partir d'un fichier texte. Le format de ce fichier doit être le suivant :</p>
+
+<ul><li>chaque ligne du fichier contient un enregistrement ;</li>
+<li>chaque enregistrement est constitué d'une série de données séparées par le caractère de séparation sélectionné ;</li>
+<li>le premier enregistrement contient la liste des noms des champs définissant le format du reste du fichier ;</li>
+<li>les champs requis sont username, password, firstname, lastname, email.</li>
+</ul>";

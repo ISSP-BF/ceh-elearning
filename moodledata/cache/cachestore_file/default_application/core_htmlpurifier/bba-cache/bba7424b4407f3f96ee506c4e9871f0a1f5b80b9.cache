@@ -1,1 +1,9 @@
-b:1;
+s:767:"<p>Le type de combinaison définit comment les évaluations sont combinées pour former la note finale dans le carnet de notes.</p>
+
+<ul><li>Moyenne des évaluations : la moyenne de toutes les évaluations</li>
+<li>Nombre d'évaluations : le nombre des éléments évalués est la note finale. Ce total ne peut pas dépasser la note maximale fixée pour l'activité</li>
+<li>Maximum : la note finale est l'évaluation la plus haute</li>
+<li>Minimum : la note finale est l'évaluation la plus basse</li>
+<li>Somme : Toutes les évaluations sont additionnées. Ce total ne peut pas dépasser la note maximale fixée pour l'activité</li>
+</ul><p>Si l'option « Aucune évaluation » est sélectionnée, l'activité n'apparaîtra pas dans le carnet de notes.</p>
+";
